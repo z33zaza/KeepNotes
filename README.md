@@ -11,7 +11,7 @@ O programa tem poucas opções, porém as necessárias para ser funcional.
 Como instalar:
 -------------------------------------------------------------------------------
 
--Baixe o aplicativo KeepNotes v1.x.apk
+-Baixe o aplicativo KeepNotes v1.x.apk..
 -Após o download, clique sobre a notificação de download concluido ou localize o arquivo no diretorio de downloads do seu dispositivo.
 -Ao clicar em KeepNotes v1.x.apk a instalação será iniciada.
 -Leia atentamente o requerido para a instalação.
@@ -27,7 +27,7 @@ reinicie o aplicativo para que o banco de dados seja atualizado corretamente.
 Como utilizar:
 -------------------------------------------------------------------------------
 
-Clique no botão (+) para adicionar uma nova nota
+Clique no botão (+) para adicionar uma nova nota.
 Na tela de edição, informe o Titulo e o conteúdo da anotação.
 Clique em salvar para guardar a anotação.
 Todas as anotações serão organizadas na tela inicial por ordem alfabética do título.
@@ -38,7 +38,7 @@ Ao lado do item Salvar, você verá um botão com 3 pontos, nessa opção é pos
 Contato:
 -------------------------------------------------------------------------------
 
-Email: z33zaza@otmail.com
+Email: z33zaza@hotmail.com
 GitHub: https://github.com/z33zaza/
 Youtube: https://youtube.com/user/crazyboys2008
 
