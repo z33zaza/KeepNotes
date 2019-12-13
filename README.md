@@ -15,6 +15,8 @@ Como instalar:
 -Após o download, clique sobre a notificação de download concluido ou localize o arquivo no diretorio de downloads do seu dispositivo.
 -Ao clicar em KeepNotes v1.x.apk a instalação será iniciada.
 -Leia atentamente o requerido para a instalação.
+-O aplicativo não requer permissões de acesso adicionais.
+-Como o aplicativo está fora da playstore poderá aparecer uma mensagem de desenvolvedor desconhecido e por isso será julgado como potencialmente perigoso, envie para a análise se possivel.
 -Ao concluir, será criado um icone (atalho) do aplicativo na sua lista de aplicativos.
 -Pronto.
 
